@@ -1,0 +1,7 @@
+# Programa filho 1
+
+SET G0 200
+WORK
+BLOCK 2
+PRINT G0
+END

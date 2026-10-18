@@ -1,0 +1,7 @@
+# Programa com I/O: bloqueia por 3 instantes
+SET G0 10
+WORK
+BLOCK 3
+SET G0 20
+PRINT G0
+END

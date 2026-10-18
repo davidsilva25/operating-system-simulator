@@ -1,0 +1,9 @@
+# Programa pai que cria processos filhos
+
+SET G0 100
+WORK
+PROC_CREATE filho1
+WORK
+PROC_CREATE filho2
+WORK
+END

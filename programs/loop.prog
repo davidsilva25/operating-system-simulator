@@ -1,0 +1,9 @@
+# Programa com loop: decrementa até 0
+
+SET L0 3
+WORK
+JZ L0 6
+ADD L0 -1
+JUMP -3
+PRINT L0
+END

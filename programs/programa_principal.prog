@@ -1,0 +1,7 @@
+# Programa principal
+
+SET G0 50
+THREAD_CREATE linha_apoio
+BLOCK 2
+PRINT G0
+END

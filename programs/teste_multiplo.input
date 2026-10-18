@@ -1,0 +1,4 @@
+LOAD pai.prog
+LOAD filho1.prog
+LOAD filho2.prog
+START pai

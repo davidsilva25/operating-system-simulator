@@ -1,0 +1,3 @@
+LOAD programa_principal.prog
+LOAD linha_apoio.prog
+START programa_principal

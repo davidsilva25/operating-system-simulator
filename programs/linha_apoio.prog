@@ -1,0 +1,6 @@
+# Programa de apoio
+
+SET L0 10
+ADD L0 5
+PRINT L0
+END

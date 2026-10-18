@@ -1,0 +1,11 @@
+# Programa contador: demonstração básica de ciclos de execução (WORK)
+
+SET G0 0
+WORK
+ADD G0 1
+WORK
+ADD G0 1
+WORK
+ADD G0 1
+PRINT G0
+END

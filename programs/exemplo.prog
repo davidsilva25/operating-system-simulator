@@ -1,0 +1,9 @@
+# Programa de exemplo para o simulador
+
+SET G0 5
+WORK
+WORK
+SET G1 10
+ADD G0 3
+PRINT G0
+END
